@@ -1,7 +1,7 @@
 # rectangles-on-image
 
 Executable code: MyPicasso.exe 
-***(Please, download it despite the warnings)***
+***(Please, download it despite the warning)***
 
 **App Functionalities:**
 1) User can select and upload an image
