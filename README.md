@@ -19,3 +19,5 @@ Executable code: MyPicasso.exe
 1) Stack Overflow
 2) Udemy
 3) Youtube
+
+**Note:** I describe myself as a full stack developer but evidently, I'm a very visual orientated individual. So it will definately be great if I was considered for the frontend engineer position as well (I remember there being an opening).
